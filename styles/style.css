@@ -4,9 +4,17 @@ button {
   font-family: "Arsenal", sans-serif;
 }
 
+nav a {
+  font-family: "Arsenal", sans-serif;
+}
+
+.navbar-brand {
+  font-size: 35px;
+}
+
 h1 {
-  padding-left: 40px;
   padding-top: 40px;
+  text-align: center;
 }
 h2 {
   text-align: center;
