@@ -1,0 +1,22 @@
+body {
+  padding: 50px;
+}
+
+h1,
+h2,
+button {
+  font-family: "Arsenal", sans-serif;
+}
+
+h2 {
+  text-align: center;
+  padding: 20px;
+}
+
+button {
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  padding: 10px;
+  border-radius: 4px;
+}
