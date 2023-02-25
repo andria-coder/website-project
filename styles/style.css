@@ -27,6 +27,11 @@ button {
   padding-bottom: 10px;
 }
 
+.photo-copyright {
+  font-size: 10px;
+  text-align: right;
+  margin-right: 5px;
+}
 footer {
   font-size: 30px;
   margin-left: 20px;
