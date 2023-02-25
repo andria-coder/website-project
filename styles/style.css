@@ -1,13 +1,13 @@
-body {
-  padding: 50px;
-}
-
 h1,
 h2,
 button {
   font-family: "Arsenal", sans-serif;
 }
 
+h1 {
+  padding-left: 40px;
+  padding-top: 40px;
+}
 h2 {
   text-align: center;
   padding: 20px;
@@ -19,4 +19,16 @@ button {
   margin: 0 auto;
   padding: 10px;
   border-radius: 4px;
+}
+
+.homepage-photo {
+  max-width: 100%;
+  padding-top: 40px;
+  padding-bottom: 10px;
+}
+
+footer {
+  font-size: 30px;
+  margin-left: 20px;
+  margin-bottom: 20px;
 }
