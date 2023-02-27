@@ -45,3 +45,16 @@ footer {
   margin-left: 20px;
   margin-bottom: 20px;
 }
+
+.email-link {
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+  font-family: "Arsenal", sans-serif;
+  font-size: 20px;
+}
+
+a:hover {
+  text-decoration: underline;
+}
