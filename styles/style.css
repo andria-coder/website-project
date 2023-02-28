@@ -1,6 +1,7 @@
 h1,
 h2,
-button {
+button,
+p {
   font-family: "Arsenal", sans-serif;
 }
 
@@ -44,6 +45,12 @@ footer {
   font-size: 30px;
   margin-left: 20px;
   margin-bottom: 20px;
+}
+
+p {
+  text-align: justify;
+  line-height: 1.5;
+  font-size: 18px;
 }
 
 .email-link {
