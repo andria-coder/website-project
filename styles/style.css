@@ -65,3 +65,7 @@ p {
 a:hover {
   text-decoration: underline;
 }
+
+.navbar-brand:hover {
+  text-decoration: none;
+}
