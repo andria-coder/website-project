@@ -1,5 +1,6 @@
 h1,
 h2,
+h3,
 button,
 p {
   font-family: "Arsenal", sans-serif;
@@ -26,6 +27,9 @@ h2 {
   padding: 20px;
 }
 
+h3 {
+  font-size: 25px;
+}
 button {
   text-align: center;
   display: block;
@@ -51,6 +55,14 @@ footer {
   margin-bottom: 20px;
 }
 
+.social-media {
+  font-size: 30px;
+  text-align: center;
+}
+
+a i {
+  color: #4a4646;
+}
 p {
   text-align: justify;
   line-height: 1.5;
@@ -72,4 +84,13 @@ a:hover {
 
 .navbar-brand:hover {
   text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+  padding: 10px;
+}
+
+.active {
+  text-decoration: underline !important;
 }
