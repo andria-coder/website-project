@@ -38,6 +38,15 @@ button {
   border-radius: 4px;
 }
 
+button a {
+  color: black;
+  text-decoration: none;
+}
+
+button a:hover {
+  text-decoration: none;
+}
+
 .homepage-photo {
   max-width: 100%;
   padding-top: 40px;
