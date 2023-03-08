@@ -57,10 +57,12 @@ button a:hover {
   font-size: 10px;
   text-align: right;
   margin-right: 5px;
+  color: gray;
 }
 
 .copyright {
   font-size: 10px;
+  color: gray;
 }
 footer {
   font-size: 30px;
