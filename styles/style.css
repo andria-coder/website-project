@@ -56,7 +56,7 @@ button a:hover {
 .photo-copyright {
   font-size: 10px;
   text-align: right;
-  margin-right: 5px;
+  margin-right: 10px;
   color: gray;
 }
 
@@ -66,7 +66,8 @@ button a:hover {
 }
 footer {
   font-size: 30px;
-  margin-left: 20px;
+  text-align: right;
+  margin-right: 10px;
   margin-bottom: 20px;
 }
 
